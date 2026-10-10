@@ -43,7 +43,7 @@ A collection of beginner-friendly JavaScript exercises focused on loops, conditi
 **Step 1:** Clone the repository.
 
 ```bash
-git clone repo link 
+git clone https://github.com/infapk02/loop-task-js.git
 ```
 
 **Step 2:** Navigate to the project folder.
